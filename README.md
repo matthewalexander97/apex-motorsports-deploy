@@ -63,13 +63,17 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+## Here is a link to the webapp Deployed via Netlify: https://apexmotorsports.netlify.app/
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='src/assets/codepathdemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Here is a walkthrough of the secondary class requirments including Web App Deployment, a User Login & Signup with Supabase backend, and Use of LLM for app
+
+<img src='src/assets/demo2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
 Ezgif
