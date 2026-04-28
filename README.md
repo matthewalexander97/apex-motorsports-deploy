@@ -80,7 +80,7 @@ Describe any challenges encountered while building the app: Getting AI summary t
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
