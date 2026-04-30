@@ -2,9 +2,9 @@
 
 Submitted by: Matthew Greenberg z23352835
 
-This web app: is a forum where users can upload posts, pictures, comments and upvote posts with sorting functions.
+This web app: is a full-stack, single-page React application designed as a dedicated hub for sports car enthusiasts. Built with a modern tech stack including Vite and Tailwind CSS, the platform allows users to share high-octane content, discuss car builds, and engage with a passionate community. The backend is powered by Supabase, providing secure PostgreSQL database management and user authentication. Additionally, the application integrates the Google Gemini API to generate instant, AI-driven summaries of community discussions, giving users a quick "Pit Stop Summary" of trending posts.
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -74,6 +74,8 @@ Here's a walkthrough of implemented user stories:
 Here is a walkthrough of the secondary class requirments including Web App Deployment, a User Login & Signup with Supabase backend, and Use of LLM for app
 
 <img src='src/assets/demo2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+**youtube link to the secondary class requirments** https://youtu.be/0fvbtfETAuE
 
 GIF created with ...  
 Ezgif
