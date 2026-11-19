@@ -1,15 +1,8 @@
-# Web Development Final Project - Apex MotorSports
+ Apex MotorSports
 
-Submitted by: Matthew Greenberg z23352835
+Matthew Greenberg 
 
 This web app: is a full-stack, single-page React application designed as a dedicated hub for sports car enthusiasts. Built with a modern tech stack including Vite and Tailwind CSS, the platform allows users to share high-octane content, discuss car builds, and engage with a passionate community. The backend is powered by Supabase, providing secure PostgreSQL database management and user authentication. Additionally, the application integrates the Google Gemini API to generate instant, AI-driven summaries of community discussions, giving users a quick "Pit Stop Summary" of trending posts.
-
-Time spent: **8** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
 
 - [x] **Web app includes a create form that allows the user to create posts**
   - Form requires users to add a post title
@@ -42,27 +35,6 @@ The following **required** functionality is completed:
   - After a user creates a new post, they can go back and edit the post
   - A previously created post can be deleted from its post page
 
-The following **optional** features are implemented:
-
-
-- [ ] Web app implements pseudo-authentication
-  - Users can only edit and delete posts or delete comments by entering the secret key, which is set by the user during post creation
-  - **or** upon launching the web app, the user is assigned a random user ID. It will be associated with all posts and comments that they make and displayed on them
-  - For both options, only the original user author of a post can update or delete it
-- [ ] Users can repost a previous post by referencing its post ID. On the post page of the new post
-  - Users can repost a previous post by referencing its post ID
-  - On the post page of the new post, the referenced post is displayed and linked, creating a thread
-- [ ] Users can customize the interface
-  - e.g., selecting the color scheme or showing the content and image of each post on the home feed
-- [ ] Users can add more characterics to their posts
-  - Users can share and view web videos
-  - Users can set flags such as "Question" or "Opinion" while creating a post
-  - Users can filter posts by flags on the home feed
-  - Users can upload images directly from their local machine as an image file
-- [ ] Web app displays a loading animation whenever data is being fetched
-
-The following **additional** features are implemented:
-
 ## Here is a link to the webapp Deployed via Netlify: https://apexmotorsports.netlify.app/
 
 ## Video Walkthrough
@@ -78,26 +50,3 @@ Here is a walkthrough of the secondary class requirments including Web App Deplo
 **youtube link to the secondary class requirments** https://youtu.be/0fvbtfETAuE
 
 **Netlify deployed link for the website** https://apexmotorsports.netlify.app/
-
-GIF created with ...  
-Ezgif
-
-## Notes
-
-Describe any challenges encountered while building the app: Getting AI summary to work properly and setting up user accounts via supabase.
-
-## License
-
-    Copyright [2026] [name of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
